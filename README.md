@@ -7,9 +7,9 @@
 
 - 👯 Saya mengajak anda bergabung dalam [Program TI](https://github.com/nowarlove/programti.git)
 
-- 🤝 Jika kalian berminat belajar bersama di [CTF](https://github.com/nowarlove/ctf-resource.git)
+- 🤝 Jika kalian berminat belajar bersama di [CTF](https://github.com/nowarlove/ctf-tools.git)
 
-- 📫 Hubungi saya disini [email](symbian071@gmail.com)
+- 📫 Hubungi saya disini **symbian071@gmail.com**
 
 -----------------------------------------------------------------------
 <div align = center>
