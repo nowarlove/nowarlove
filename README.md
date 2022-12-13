@@ -1,4 +1,4 @@
-<h1 align="center">halo dunia Selamat Datang</h1>
+<h1 align="center">Halo Dunia Selamat Datang</h1>
 <h3 align="center"><b>Perkenalkan saya Leonardo Tegarsuan, saya adalah pegiat teknologi di dunia cybersecurity</b></h3>
 
 - 🔭 Saya sedang fokus pada proyek [OpenFlow](https://github.com/nowarlove/OpenFlow.git)
