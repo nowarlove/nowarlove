@@ -7,14 +7,6 @@
 <h3 align="center">Active student at Raja Ali Haji Maritime University, who likes technology in the field of network security</h3>
 <img align="right" alt="titi" width="400" src ="https://symbols.vn/wp-content/uploads/2021/12/Anh-nen-dong-dep-chang-trai-chat-ngau.gif">
 
-- currently working on [**Mikrotik Monitoring**](https://github.com/nowarlove/network-monitoring)
-
-- currently learning **CI/CD PIPELINE**
-
-- All of my projects are available at [**nowarlove**](https://github.com/nowarlove)
-
-- reach me **2001020019@student.umrah.ac.id**
-
 - my experiences [**Leonardo**](https://www.linkedin.com/in/leonardo77/)
 
 <h3 align="left">Languages and Tools:</h3>
