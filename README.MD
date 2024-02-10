@@ -5,6 +5,3 @@
 
 <h1 align="center">Hi, I'm Leonardo Tegarsuan</h1>
 <h3 align="center">Active student at Raja Ali Haji Maritime University, who likes technology in the field of network security</h3>
-<img align="right" alt="titi" width="400" src ="https://symbols.vn/wp-content/uploads/2021/12/Anh-nen-dong-dep-chang-trai-chat-ngau.gif">
-
-- my experiences [**Leonardo**](https://www.linkedin.com/in/leonardo77/)
